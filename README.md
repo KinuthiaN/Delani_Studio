@@ -8,7 +8,7 @@ Geoffrey Kinuthia.
 It's a website that tells gives details on services offered by Delani Studio.
 
 #### Instructions
-All you need is a computer and internet and link to the website to reach us
+All you need is a computer and internet and link to the website to reach us.
 
 #### Link To Github Pages
 https://kinuthian.github.io/Delani_Studio/
