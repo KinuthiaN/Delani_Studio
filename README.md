@@ -1,5 +1,5 @@
 # DELANI STUDIO
-It is a website that is a fictional studio
+It is a website that is a fictional studio.
 
 ## Authors
 Geoffrey Kinuthia
