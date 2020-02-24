@@ -14,7 +14,7 @@ All you need is a computer and internet and link to the website to reach us.
 https://kinuthian.github.io/Delani_Studio/
 
 #### License and Copyright Information
-This website is free and  open to the public.
+This website is free and  open to the public
 
 #### Author(s) Information
 My names is Geoffrey and, am a beginner in software development.
