@@ -5,7 +5,7 @@ It is a website that is a fictional studio.
 Geoffrey Kinuthia.
 
 ### About
-It's a website that tells gives details on services offered by Delani Studio
+It's a website that tells gives details on services offered by Delani Studio.
 
 #### Instructions
 All you need is a computer and internet and link to the website to reach us
