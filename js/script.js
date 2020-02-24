@@ -18,6 +18,7 @@ $("document").ready(function() {
         // $('.image3').toggle();
     });
 });
+
 $(".second-image").hover(function() {
     $(".overlay2").show();
     $(".second-image").mouseleave(function(){
