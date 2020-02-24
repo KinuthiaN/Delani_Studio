@@ -2,7 +2,7 @@
 It is a website that is a fictional studio.
 
 ## Authors
-Geoffrey Kinuthia
+Geoffrey Kinuthia.
 
 ### About
 It's a website that tells gives details on services offered by Delani Studio
