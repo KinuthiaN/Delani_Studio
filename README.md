@@ -11,7 +11,7 @@ It's a website that tells gives details on services offered by Delani Studio
 All you need is a computer and internet and link to the website to reach us
 
 #### Link To Github Pages
-
+https://kinuthian.github.io/Delani_Studio/
 
 #### License and Copyright Information
 This website is free and  open to the public.
