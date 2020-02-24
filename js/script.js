@@ -73,7 +73,7 @@ $(".eighth-image").hover(function() {
         $(".overlay8").hide();
     });
 });
-$(form).submit(function(event){
-    var name=$("#name").val();
+$("script").submit(function(event){
+    var name=$("#NAME").val();
     alert("Thank you " + name + " for your feedback");
 });
