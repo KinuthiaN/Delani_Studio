@@ -74,7 +74,7 @@ $(".eighth-image").hover(function() {
         $(".overlay8").hide();
     });
 });
-$("script").submit(function(event){
+$("form").submit(function(event){
     var name=$("#NAME").val();
     alert("Thank you " + name + " for your feedback");
 });
