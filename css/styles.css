@@ -1,7 +1,7 @@
 .delani_studio{
   background-image: url('../imgs/h_img.jpg');
   background-position: center; 
-  background-size:auto;
+  background-size:cover;
   background-repeat: no-repeat;
 }
 
@@ -58,6 +58,9 @@ input,textarea{
 }
 .image1:hover{
   cursor: pointer;
+}
+.section1{
+
 }
 
 #p1{
